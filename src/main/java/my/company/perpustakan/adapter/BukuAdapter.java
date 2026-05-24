@@ -8,6 +8,6 @@ package my.company.perpustakan.adapter;
  *
  * @author asus
  */
-public class PeminjamanAdapter {
+public class BukuAdapter {
     
 }

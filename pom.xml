@@ -10,4 +10,16 @@
         <maven.compiler.release>25</maven.compiler.release>
         <exec.mainClass>my.company.perpustakan.PerpusTakan</exec.mainClass>
     </properties>
+    <dependencies>
+        <dependency>
+            <groupId>com.squareup.retrofit2</groupId>
+            <artifactId>retrofit</artifactId>
+            <version>2.11.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.squareup.retrofit2</groupId>
+            <artifactId>converter-gson</artifactId>
+            <version>2.11.0</version>
+        </dependency>
+    </dependencies>
 </project>
